@@ -16,8 +16,8 @@ IMPORTANT:
 <ul>
   <li>In the code set the GP numbers in correspondence of the button connection on your pico</li>
   <li>You are free to change names and delcare new ones (functions too) as i did (just follow my comments in the code)</li>
-  <li>In order to autostart the script, the file must be renamed main.py</li>
-  <li>Copy the content of the lib folder provided by the prepo into your pico lib folder</li>
+  <li><b>In order to autostart the script, the file must be renamed main.py</b></li>
+  <li><b>Copy the content of the lib folder provided by the prepo into your pico lib folder</b></li>
 </ul> 
 
 For any question or collaboration feel free to contact me!
