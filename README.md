@@ -31,7 +31,7 @@ For any question or collaboration feel free to contact me!
   <li>Adding your buttons to a list (this will come handy later), <b>don't forget</b> to add/rename here your new buttons</li>
   <li>Keyboard object to emulate key press (don't need to change anything here)</li>
   <li>Writing functions: you can call those as you want, here you code your combination, you can write as many keys as you want (list will be at the bottom of the file). Remember to put both press and release or you will bestuck wit your combination active</li>
-  <li>List of function names we just created, same story as the name list, just pay attention to not add "()" at the end of each name </li>
+  <li>List of function names we just created, same story as the name list, just pay attention to not add "( )" at the end of each name </li>
   <li>Magic for loop (don't need to touch it): here is where the code savings happens, indeed we use the list to initialize all the button, instead of writing the same code for all buttons</li>
   <li>Waiting and listening for button to be pressed  (don't need to touch it)</li>
   <li>Disclaimer: feel free to play with timings if you feel them too fast/slow, just change value in time.sleep(value)</li>
